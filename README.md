@@ -1,4 +1,5 @@
-# Fixing RDP error rdns error
+# Fixing Linux error rdns error
+
 ## Error
 
 realm: Couldn't join realm: Insufficient permissions to join the domain
